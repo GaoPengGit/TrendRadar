@@ -24,9 +24,6 @@ qwen
 宇树
 王兴兴
 
-比特币
-炒股
-
 DeepSeek
 梁文锋
 
@@ -34,6 +31,3 @@ DeepSeek
 google
 gemini
 deepmind
-
-单机游戏
-3A大作
